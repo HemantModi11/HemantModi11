@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantmodi11&label=Profile%20views&color=0e75b6&style=flat" alt="hemantmodi11" /> </p>
 
-- 🌱 I’m currently learning **Django, Machine Learning, Cloud, Basics of Frontend**
+- 🌱 I’m currently learning **Full Stack Web Development and Cloud**
 
 - 📫 How to reach me **hemantmodi101@gmail.com**
 
