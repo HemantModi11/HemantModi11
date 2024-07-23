@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+I+am+Hemant+Modi;Machine-Learning+Enthusiast;Computer+Science+Student+at+VIT,Vellore;Aspiring+Data+Scientist;Active+Learner;Cricket+and+Gym+are+my+hobbies"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+I+am+Hemant+Modi;Machine-Learning+Enthusiast;Computer+Science+Student+at+VIT,Vellore;Aspiring+Data+Scientist;Aspiring+SWE;Active+Learner;Cricket+and+Gym+are+my+hobbies"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hemantmodi11&label=Profile%20views&color=0e75b6&style=flat" alt="hemantmodi11" /> </p>
@@ -14,10 +14,11 @@
 
 <br>
 
-- 👨🏻‍💻 I’m currently learning and practicing **Artificial Intelligence and Machine Learning**
+- 👨🏻‍💻 I’m currently learning and practicing **Web Development and Machine Learning**
 - 📶 Data Science Intern @ Celebal Technologies, Jaipur
 - CodeFury 6.0 Hackathon Runners Up
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1zh9kn-VD4GeotEWri7IG6ujVbG9mOV05/view?usp=sharing)
+- Published a research paper on Toll Collection using ANPR in IJFMR, May edition
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1AOgrtsn1o3K6qYpCkpZqp3VDsR8hptQl/view)
 
 <br><br>
 
