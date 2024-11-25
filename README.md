@@ -15,10 +15,10 @@
 <br>
 
 - 👨🏻‍💻 I’m currently learning and practicing **Web Development and Machine Learning**
-- 📶 Data Science Intern @ Celebal Technologies, Jaipur
+- 📶 Ex - Data Science Intern @ Celebal Technologies, Jaipur
 - CodeFury 6.0 Hackathon Runners Up
 - Published a research paper on Toll Collection using ANPR in IJFMR, May edition
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1AOgrtsn1o3K6qYpCkpZqp3VDsR8hptQl/view)
+- I’m currently open for an Intern or a full time job opportunity, this is [my resume](https://drive.google.com/file/d/1AOgrtsn1o3K6qYpCkpZqp3VDsR8hptQl/view)
 
 <br><br>
 
